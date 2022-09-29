@@ -12,7 +12,7 @@
   "dependencies": {
     "animate.css": "^3.5.2",
     "axios": "^0.16.0",
-    "d3": "^5.7.0",
+    "d3": "^7.6.1",
     "echarts": "^4.1.0",
     "element-ui": "^2.4.7",
     "jquery": "^3.3.1",
